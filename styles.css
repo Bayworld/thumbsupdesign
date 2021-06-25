@@ -24,6 +24,10 @@ html{
     background: #555;
 }
 
+#active{
+    color: #f0933e;
+}
+
 /* all similar content styling codes */
 section{
     padding: 100px 0;
