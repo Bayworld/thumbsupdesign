@@ -24,9 +24,10 @@ html{
     background: #555;
 }
 
-#active{
-    color: #f0933e;
+a#menu-btn:active{
+    background-color: #f0933e;
 }
+
 
 /* all similar content styling codes */
 section{
@@ -123,6 +124,7 @@ section .title::after{
 .navbar .menu li a:hover{
     color: #a0313b;
 }
+
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
